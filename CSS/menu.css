@@ -1,0 +1,30 @@
+
+#column{
+    background-color:white;
+    color:white;
+    font-size: 100%;
+}
+
+
+.jb{
+    margin-left: 80px;
+    margin-right: 80px;
+    margin-top: 20px;
+    text-align: justify;
+    font-size: 25px;
+    color: skyblue;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+
+.carousel-inner{
+    width:1400px;
+    height: 500px;
+}
+
+
+.carousel-item{
+    width: 1400px;
+    height: 500px;
+}
